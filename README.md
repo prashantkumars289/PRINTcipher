@@ -5,7 +5,7 @@ Group Name: Codebreakers
 
 Group Member: Rahul Kumar Mina(11840820), Prashant Kumar(11840820), Meghna Singh(11840710)
 
-Files with discription:
+Files with description:
 1) implementation_codebreaker.cpp : We have implemented all 48 rounds of PRINTcipher-48. Simply run the program with the given plaintext, you will get the 
     ciphertext after each round. Also, you can uncomment the print (cout) statement in between the code to see intermediated steps. To verify the result,
     we have attached a verify_PRINTcipher_48.png file which is taken from a research paper named "PRINTcipher: A Block Cipher for IC-Printing"
